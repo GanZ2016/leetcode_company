@@ -1,2 +1,2 @@
 # leetcode_company
-company tag of leetcode, updated on Nov.2017 
+Company tags of leetcode, updated on Nov.2017 
